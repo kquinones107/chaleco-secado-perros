@@ -36,3 +36,9 @@ nav ul li a {
 nav ul li a:hover {
   color: #007bff;
 }
+
+.container {
+  text-align: center;
+  margin: 0 auto; /* Para centrar el contenedor si es necesario */
+  max-width: 800px; /* Ajusta el ancho máximo si es necesario */
+}
